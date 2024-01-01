@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/saurabh/Projects/Chest_Cancer/mlruns/0/44231eb546034457b3c2d06218bbcd19/artifacts
+end_time: 1704132384665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44231eb546034457b3c2d06218bbcd19
+run_name: capable-roo-619
+run_uuid: 44231eb546034457b3c2d06218bbcd19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704132376214
+status: 3
+tags: []
+user_id: goku1
